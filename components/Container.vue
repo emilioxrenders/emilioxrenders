@@ -9,8 +9,8 @@ defineProps({
 
 <template>
   <div
-    :class="`container lg:pb-32 pb-16 mx-auto flex px-10 flex-col gap-10 ${
-      content ? 'pt-10 max-w-screen-lg' : 'pt-16 lg:pt-32'
+    :class="`container lg:pb-32 pb-16 mx-auto flex px-10 flex-col gap-8 ${
+      content ? 'pt-8 max-w-4xl' : 'pt-16 lg:pt-32'
     }`"
   >
     <slot />

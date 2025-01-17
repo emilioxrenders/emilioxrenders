@@ -10,7 +10,7 @@ useSeoMeta({
   <Container :content="true">
     <Back />
 
-    <h1 class="text-3xl">Touching Grass: a Step by Step Guide</h1>
+    <h1>Touching Grass: a Step by Step Guide</h1>
 
     <HeaderImage image="grass.webp" alt="Touching Grass" />
 
@@ -41,9 +41,7 @@ useSeoMeta({
       </p>
       <br />
       <br />
-      <h2 class="text-xl mb-2 font-normal">
-        Have we become detached from nature?
-      </h2>
+      <h2 class="mb-2">Have we become detached from nature?</h2>
       <p>
         So, have we lost our roots to nature? To answer this, let's take a look
         at history. Back in the day, enormous corporations like supermarkets
@@ -71,9 +69,7 @@ useSeoMeta({
       </p>
       <br />
       <br />
-      <h2 class="text-xl mb-2 font-normal">
-        The positive benefits of being connected with nature
-      </h2>
+      <h2 class="mb-2">The positive benefits of being connected with nature</h2>
       <p>
         Is this necessarily a bad thing? Well, dear reader, I'm of the opinion
         that it is. A deep connection with nature is one of the most valuable
@@ -108,18 +104,14 @@ useSeoMeta({
       </p>
       <br />
       <br />
-      <h2 class="text-xl mb-2 font-normal">
-        Top 5 ways to connect with nature
-      </h2>
+      <h2 class="mb-2">Top 5 ways to connect with nature</h2>
       <p>
         With all this information on why touching grass is so important for us,
         let's look at my top 5 ways you can easily invite more nature into your
         life.
       </p>
       <br />
-      <ol class="font-normal mb-1 list-decimal list-inside" start="1">
-        <li>Take a walk</li>
-      </ol>
+      <h3 class="mb-2 pl-5">1. Take a walk</h3>
       <p>
         Sounds obvious, right? It is, but it's also something we're
         statistically not doing enough of. Research suggests that us Europeans
@@ -130,9 +122,7 @@ useSeoMeta({
         nearby).
       </p>
       <br />
-      <ol class="font-normal mb-1 list-decimal list-inside" start="2">
-        <li>Shop locally</li>
-      </ol>
+      <h3 class="mb-2 pl-5">2. Shop locally</h3>
       <p>
         And I don't mean 'support your local skate shop'—although that is still
         a good thing, but a topic for another day. Go to your local farmers
@@ -141,11 +131,9 @@ useSeoMeta({
         eat.
       </p>
       <br />
-      <ol class="font-normal mb-1 list-decimal list-inside" start="3">
-        <li>
-          Reserve some time—if the weather allows it—to read a book outside
-        </li>
-      </ol>
+      <h3 class="mb-2 pl-5">
+        3. Reserve some time—if the weather allows it—to read a book outside
+      </h3>
       <p>
         Aside from the general positive benefits reading gives us, it's a
         perfect opportunity to really experience the world around us, and be
@@ -155,9 +143,7 @@ useSeoMeta({
         blowing past your nose. You still feel the breeze on your skin.
       </p>
       <br />
-      <ol class="font-normal mb-1 list-decimal list-inside" start="4">
-        <li>Earthing (grounding)</li>
-      </ol>
+      <h3 class="mb-2 pl-5">4. Earthing (grounding)</h3>
       <p>
         This is probably the most 'spiritual' point in my list, but you should
         still try it if you're not into all of that stuff. Earthing, or
@@ -167,9 +153,7 @@ useSeoMeta({
         and now. Sounds vague, but I'd recommend giving it a try.
       </p>
       <br />
-      <ol class="font-normal mb-1 list-decimal list-inside" start="5">
-        <li>Breathe</li>
-      </ol>
+      <h3 class="mb-2 pl-5">5. Breathe</h3>
       <p>
         Okay so what do I mean by this? Well exactly what it states: breathe.
         Take time to just inhale, exhale, and appreciate the things around you.
@@ -179,7 +163,7 @@ useSeoMeta({
       </p>
       <br />
       <br />
-      <h2 class="text-xl mb-2 font-normal">Wrapping up</h2>
+      <h2 class="mb-2">Wrapping up</h2>
       <p>
         And with that last point I want to wrap up this article. I hope you're
         equipped with some more knowledge on how we as humans can feel more

@@ -10,7 +10,7 @@ useSeoMeta({
   <Container :content="true">
     <Back />
 
-    <h1 class="text-3xl">Finding Inspiration in Everyday Life</h1>
+    <h1>Finding Inspiration in Everyday Life</h1>
 
     <HeaderImage image="life.webp" alt="Inspiration" />
 
@@ -28,9 +28,7 @@ useSeoMeta({
       </p>
       <br />
       <br />
-      <h2 class="text-xl mb-2 font-normal">
-        The difference between motivation and inspiration
-      </h2>
+      <h2 class="mb-2">The difference between motivation and inspiration</h2>
       <p>
         Let us first take a small detour in explaining what the difference
         between motivation and inspiration is, since I will be using both terms
@@ -42,7 +40,7 @@ useSeoMeta({
       </p>
       <br />
       <br />
-      <h2 class="text-xl mb-2 font-normal">Why do we feel motivated?</h2>
+      <h2 class="mb-2">Why do we feel motivated?</h2>
       <p>
         People that know me will sigh at what I'm about to say, since I can't
         seem to shut up about it, but I love bouldering. So much that it's
@@ -64,7 +62,7 @@ useSeoMeta({
         feel.
       </p>
       <br />
-      <h2 class="text-xl mb-2 font-normal">Chasing dopamine</h2>
+      <h2 class="mb-2">Chasing dopamine</h2>
       <p>
         Getting better at things and increasing grades we can climb gives us
         huge hits of dopamine. These hits of dopamine reward us for our
@@ -91,7 +89,7 @@ useSeoMeta({
       </p>
       <br />
       <br />
-      <h2 class="text-xl mb-2 font-normal">Detachment from our goals</h2>
+      <h2 class="mb-2">Detachment from our goals</h2>
       <p>
         We can accomplish this by detaching ourselves from our goals. By doing
         this, we can create space to enjoy our actions instead of our
@@ -118,7 +116,7 @@ useSeoMeta({
       </p>
       <br />
       <br />
-      <h2 class="text-xl mb-2 font-normal">Conclusion</h2>
+      <h2 class="mb-2">Conclusion</h2>
       <p>
         We get too hung up on what we accomplish, that we forgot to truly
         experience what we do. By enjoying the process, focussing on our actions

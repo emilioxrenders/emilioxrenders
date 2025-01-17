@@ -10,9 +10,7 @@ useSeoMeta({
   <Container :content="true">
     <Back />
 
-    <h1 class="text-3xl">
-      Dungeons & Dragons: Enhancing Creativity, Cognition, and Connection
-    </h1>
+    <h1>Dungeons & Dragons: Enhancing Creativity, Cognition, and Connection</h1>
 
     <HeaderImage image="dnd.webp" alt="Dungeons & Dragons" />
 
@@ -40,7 +38,7 @@ useSeoMeta({
       </p>
       <br />
       <br />
-      <h2 class="text-xl mb-2 font-normal">What is Dungeons & Dragons?</h2>
+      <h2 class="mb-2">What is Dungeons & Dragons?</h2>
       <p>
         Imagine stepping into a fantastical realm, where you can become anyone
         you want and go on an epic journey with friends. This is what's at the
@@ -57,9 +55,7 @@ useSeoMeta({
       </p>
       <br />
       <br />
-      <h2 class="text-xl mb-2 font-normal">
-        The positive benefits of playing Dungeons & Dragons
-      </h2>
+      <h2 class="mb-2">The positive benefits of playing Dungeons & Dragons</h2>
       <p>
         Creativity is at the forefront of playing D&D. To play this game, you
         first create a unique character with an engaging backstory. This
@@ -118,9 +114,7 @@ useSeoMeta({
       </p>
       <br />
       <br />
-      <h2 class="text-xl mb-2 font-normal">
-        Getting Started with Dungeons & Dragons
-      </h2>
+      <h2 class="mb-2">Getting Started with Dungeons & Dragons</h2>
       <p>
         Starting your journey in D&D might seem daunting at first, especially
         when it comes to finding a playgroup. However, thanks to the increasing
@@ -142,7 +136,7 @@ useSeoMeta({
       </p>
       <br />
       <br />
-      <h2 class="text-xl mb-2 font-normal">Conclusion</h2>
+      <h2 class="mb-2">Conclusion</h2>
       <p>
         Dungeons & Dragons is more than just a game; it's a gateway for
         improving creativity and cognitive function through the means of

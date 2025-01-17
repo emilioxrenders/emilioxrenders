@@ -10,16 +10,12 @@ useSeoMeta({
   <Container :content="true">
     <Back />
 
-    <h1 class="text-3xl">
-      Seasonal Affective Disorder: A Comprehensive Overview
-    </h1>
+    <h1>Seasonal Affective Disorder: A Comprehensive Overview</h1>
 
     <HeaderImage image="sad.webp" alt="Seasonal Affective Disorder" />
 
     <div class="flex flex-col">
-      <h2 class="text-xl mb-2 font-normal">
-        Seasonal shifts and mental health
-      </h2>
+      <h2 class="mb-2">Seasonal shifts and mental health</h2>
       <p>
         As summer winds down and autumn is rearing its head, it's not only time
         to bring out the pumpkin(-spiced latte)s, but also a more sinister
@@ -36,9 +32,7 @@ useSeoMeta({
       </p>
       <br />
       <br />
-      <h3 class="text-xl mb-2 font-normal">
-        What is Seasonal Affective Disorder?
-      </h3>
+      <h3 class="mb-2">What is Seasonal Affective Disorder?</h3>
       <p>
         So, what exactly is Seasonal Affective Disorder (SAD)? SAD is an
         officially recognized subtype of major depressive disorder (MDD) in the
@@ -52,7 +46,7 @@ useSeoMeta({
       </p>
       <br />
       <br />
-      <h3 class="text-xl mb-2 font-normal">Identifying the Telltale Signs</h3>
+      <h3 class="mb-2">Identifying the Telltale Signs</h3>
       <p>
         Identifying the symptoms of SAD is crucial. Symptoms can be categorised
         into two groups: general symptoms associated with major depression, and
@@ -60,7 +54,7 @@ useSeoMeta({
         Institute of Mental Health, symptoms of SAD may include:
       </p>
       <br />
-      <p class="mb-2 font-normal">General symptoms of Major Depression:</p>
+      <p class="mb-2 font-bold">General symptoms of Major Depression:</p>
       <ul class="list-disc list-inside pl-5">
         <li>Feeling depressed most of the day, nearly every day</li>
         <li>Losing interest in activities you once enjoyed</li>
@@ -73,7 +67,7 @@ useSeoMeta({
         <li>Having frequent thoughts of death or suicide</li>
       </ul>
       <br />
-      <p class="mb-2 font-normal">
+      <p class="mb-2 font-bold">
         Those experiencing winter-pattern SAD might also notice:
       </p>
       <ul class="list-disc list-inside pl-5">
@@ -83,7 +77,7 @@ useSeoMeta({
         <li>Social withdrawal (feeling like “hibernating”)</li>
       </ul>
       <br />
-      <p class="mb-2 font-normal">
+      <p class="mb-2 font-bold">
         Those experiencing summer-pattern SAD might also notice:
       </p>
       <ul class="list-disc list-inside pl-5">
@@ -100,36 +94,31 @@ useSeoMeta({
       </p>
       <br />
       <br />
-      <h3 class="text-xl mb-2 font-normal">
-        Understanding the Underlying Factors
-      </h3>
+      <h3 class="mb-2">Understanding the Underlying Factors</h3>
       <p>
         The specific cause behind seasonal depression is still a bit of a
         mystery, but there are several factors that are believed to contribute:
       </p>
       <br />
       <p>
-        <span class="font-normal mb-1">Circadian Rhythm:</span> Reduced sunlight
-        during the fall and winter months can disrupt our internal circadian
-        rhythms. This disruption is believed to increase the production of the
-        hormone melatonin, which can lead to feelings of lethargy and
-        sluggishness. Conversely, increased sunlight during the summer months
-        can suppress melatonin production, potentially resulting in insomnia.
+        <span class="font-bold">Circadian Rhythm:</span> Reduced sunlight during
+        the fall and winter months can disrupt our internal circadian rhythms.
+        This disruption is believed to increase the production of the hormone
+        melatonin, which can lead to feelings of lethargy and sluggishness.
+        Conversely, increased sunlight during the summer months can suppress
+        melatonin production, potentially resulting in insomnia.
       </p>
       <br />
       <p>
-        <span class="font-normal mb-1">Activity Levels:</span> The colder months
-        often mean more time indoors and less physical activity, both of which
-        can contribute towards feelings of depression. In contrast, summer
-        invites more outdoor activities, raising expectations to be more social.
-        This can sometimes lead to increased anxiety and feelings of
-        restlessness.
+        <span class="font-bold">Activity Levels:</span> The colder months often
+        mean more time indoors and less physical activity, both of which can
+        contribute towards feelings of depression. In contrast, summer invites
+        more outdoor activities, raising expectations to be more social. This
+        can sometimes lead to increased anxiety and feelings of restlessness.
       </p>
       <br />
       <br />
-      <h3 class="text-xl mb-2 font-normal">
-        Awareness, Empowerment, and Support
-      </h3>
+      <h3 class="mb-2">Awareness, Empowerment, and Support</h3>
       <p>
         Seasonal Affective Disorder underscores the connection between our
         environment and our mental well-being. As the seasons shift, so can our

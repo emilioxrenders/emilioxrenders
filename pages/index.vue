@@ -11,14 +11,14 @@ useSeoMeta({
   <div class="flex justify-center items-center bg-white">
     <Container>
       <div
-        class="gap-10 flex-col-reverse lg:gap-20 lg:items-center lg:flex-row flex"
+        class="gap-8 flex-col-reverse lg:gap-20 lg:items-center lg:flex-row flex"
       >
         <NuxtImg
           src="/images/profile.webp"
           alt="Profile"
           class="max-w-sm rounded-sm shadow w-full"
         />
-        <div class="flex flex-col gap-10">
+        <div class="flex flex-col gap-8">
           <h1 class="text-4xl">Turning Ideas into Stories</h1>
           <div class="flex flex-col gap-5">
             <p>
@@ -41,9 +41,9 @@ useSeoMeta({
   </div>
 
   <!-- section -->
-  <div class="flex justify-center items-center bg-primary">
+  <div class="flex justify-center items-center bg-light">
     <Container>
-      <div class="flex flex-col gap-10 lg:w-1/2">
+      <div class="flex flex-col gap-8 lg:w-1/2">
         <h2 class="text-3xl">Explore my Work</h2>
         <p>
           Discover various writing projects that showcase my skills and offer a
@@ -51,7 +51,15 @@ useSeoMeta({
         </p>
       </div>
 
-      <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-10">
+      <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8">
+        <Card
+          link="/articles/a-love-letter-to-bouldering"
+          image="bouldering.webp"
+          alt="Bouldering"
+        >
+          A love letter to bouldering: my first year of climbing
+        </Card>
+
         <Card
           link="/articles/finding-inspiration-in-everyday-life"
           image="life.webp"
@@ -90,7 +98,7 @@ useSeoMeta({
   <!-- section -->
   <div class="flex justify-center items-center bg-white">
     <Container>
-      <div class="flex flex-col gap-10 lg:w-1/2">
+      <div class="flex flex-col gap-8 lg:w-1/2">
         <h2 class="text-3xl">Let's Collaborate</h2>
         <p>
           Ready to bring your ideas to life? Whether you need captivating

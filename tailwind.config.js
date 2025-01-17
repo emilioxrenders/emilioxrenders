@@ -11,10 +11,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        dark: "#222222",
-        medium: "#5b5b5b",
-        light: "#F4F4F4",
-        primary: "#e5ebe7",
+        primary: "#6E8175",
+        light: "#E9EDEA",
       },
     },
     fontFamily: {
