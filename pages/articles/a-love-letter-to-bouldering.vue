@@ -160,7 +160,7 @@ useSeoMeta({
       </p>
       <br />
       <br />
-      <h3 class="mb-2">Conclusion</h3>
+      <h2 class="mb-2">Conclusion</h2>
       <p>
         I hope this article has properly conveyed my love for bouldering, and I
         hope even more that this convinced even one of my readers to try it out
