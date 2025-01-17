@@ -111,7 +111,7 @@ useSeoMeta({
         life.
       </p>
       <br />
-      <h3 class="mb-2 pl-5">1. Take a walk</h3>
+      <h3 class="mb-2">1. Take a walk</h3>
       <p>
         Sounds obvious, right? It is, but it's also something we're
         statistically not doing enough of. Research suggests that us Europeans
@@ -122,7 +122,7 @@ useSeoMeta({
         nearby).
       </p>
       <br />
-      <h3 class="mb-2 pl-5">2. Shop locally</h3>
+      <h3 class="mb-2">2. Shop locally</h3>
       <p>
         And I don't mean 'support your local skate shop'—although that is still
         a good thing, but a topic for another day. Go to your local farmers
@@ -131,7 +131,7 @@ useSeoMeta({
         eat.
       </p>
       <br />
-      <h3 class="mb-2 pl-5">
+      <h3 class="mb-2">
         3. Reserve some time—if the weather allows it—to read a book outside
       </h3>
       <p>
@@ -143,7 +143,7 @@ useSeoMeta({
         blowing past your nose. You still feel the breeze on your skin.
       </p>
       <br />
-      <h3 class="mb-2 pl-5">4. Earthing (grounding)</h3>
+      <h3 class="mb-2">4. Earthing (grounding)</h3>
       <p>
         This is probably the most 'spiritual' point in my list, but you should
         still try it if you're not into all of that stuff. Earthing, or
@@ -153,7 +153,7 @@ useSeoMeta({
         and now. Sounds vague, but I'd recommend giving it a try.
       </p>
       <br />
-      <h3 class="mb-2 pl-5">5. Breathe</h3>
+      <h3 class="mb-2">5. Breathe</h3>
       <p>
         Okay so what do I mean by this? Well exactly what it states: breathe.
         Take time to just inhale, exhale, and appreciate the things around you.

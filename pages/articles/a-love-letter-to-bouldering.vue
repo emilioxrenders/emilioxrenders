@@ -76,7 +76,7 @@ useSeoMeta({
         biggest reasons I love this sport so much.
       </p>
       <br />
-      <h3 class="pl-5 mb-2">1. It's like solving a puzzle with your body</h3>
+      <h3 class="mb-2">1. It's like solving a puzzle with your body</h3>
       <p>
         If you've ever seen a bouldering competition or been to a bouldering gym
         yourself, you've likely seen the absurd ways people use their bodies in
@@ -90,7 +90,7 @@ useSeoMeta({
         is the most video game-like sport there is.
       </p>
       <br />
-      <h3 class="pl-5 mb-2">2. Exercising while playing</h3>
+      <h3 class="mb-2">2. Exercising while playing</h3>
       <p>
         All this puzzling and problem solving isn't just great for your brain,
         but you tend to use your entire body while doing it. It mostly focuses
@@ -101,7 +101,7 @@ useSeoMeta({
         playing a game.
       </p>
       <br />
-      <h3 class="pl-5 mb-2">3. Sense of progression</h3>
+      <h3 class="mb-2">3. Sense of progression</h3>
       <p>
         Especially in the beginning, the sense of progression and accomplishment
         is one of the most rewarding things I've personally felt while
@@ -114,7 +114,7 @@ useSeoMeta({
         better than you were yesterday.
       </p>
       <br />
-      <h3 class="pl-5 mb-2">4. Diversity of routes</h3>
+      <h3 class="mb-2">4. Diversity of routes</h3>
       <p>
         I've touched on this subject shortly in some of the previous sections,
         but this deserves a highlight of its own. There is such an amazing range
@@ -147,7 +147,7 @@ useSeoMeta({
         wait for a future article.
       </p>
       <br />
-      <h3 class="pl-5 mb-2">5. Community</h3>
+      <h3 class="mb-2">5. Community</h3>
       <p>
         I've been a part of some amazing communities over the years, having done
         a diverse range of sports and hobbies, but in my personal experience
